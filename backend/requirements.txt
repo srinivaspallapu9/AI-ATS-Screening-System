@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+python-docx
+sqlalchemy
+pydantic
+langchain
+langchain-community
+langchain-core
+scikit-learn
+numpy
+jinja2

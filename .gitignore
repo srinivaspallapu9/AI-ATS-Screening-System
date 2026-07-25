@@ -1,0 +1,28 @@
+# Node/React dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Database
+backend/ats_system.db
+
+# Resumes and Trash
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/trash/*
+!backend/trash/.gitkeep
+
+# Environments & OS files
+.env
+.env.local
+.DS_Store
+Thumbs.db
