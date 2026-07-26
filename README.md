@@ -1,1 +1,1 @@
-..# AI-ATS-Screening-System
+# AI-ATS-Screening-System
